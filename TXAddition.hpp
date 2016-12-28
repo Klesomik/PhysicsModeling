@@ -1,6 +1,6 @@
 #include <cstdio>
 #include <cstdarg>
-#include "TXLib.h"
+#include "C:/Users/Artem/Desktop/TX/TXLibNew.h"
 
 void adCreateWindow (int width, int height, const char* header);
 void adTextOut (int x, int y, const char* label, ...);

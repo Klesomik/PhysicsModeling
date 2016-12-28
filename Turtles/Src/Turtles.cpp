@@ -1,4 +1,4 @@
-#include "TXLib.h"
+#include "C:/Users/Artem/Desktop/TX/TXLibNew.h"
 
 struct Ball
 {

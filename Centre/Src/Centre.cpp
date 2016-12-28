@@ -1,5 +1,5 @@
-#include "TXLib.h"
-#include "TXAddition.hpp"
+#include "C:/Users/Artem/Desktop/TX/TXLibNew.h"
+#include "..//TXAddition.hpp"
 
 struct Point
 {
